@@ -11,6 +11,7 @@ hello 学习git的使用!!!!
 hello 学习git的使用!!!!
 hello 学习git的使用!!!!
 hello 学习git的使用!!!!master 主分支修改
+hello 学习git的使用!!!! hot-fix 其他分支修该融
 hello 学习git的使用!!!!
 hello 学习git的使用!!!!
 hello 学习git的使用!!!!
